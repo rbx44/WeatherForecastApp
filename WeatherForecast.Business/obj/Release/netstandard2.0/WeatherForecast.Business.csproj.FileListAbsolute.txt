@@ -1,0 +1,12 @@
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\bin\Release\netstandard2.0\WeatherForecast.Business.deps.json
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\bin\Release\netstandard2.0\WeatherForecast.Business.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\bin\Release\netstandard2.0\WeatherForecast.Business.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\bin\Release\netstandard2.0\WeatherForecast.Caching.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\bin\Release\netstandard2.0\WeatherForecast.Caching.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.csprojAssemblyReference.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.csproj.CoreCompileInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.AssemblyInfoInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.AssemblyInfo.cs
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.csproj.CopyComplete
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Business\obj\Release\netstandard2.0\WeatherForecast.Business.pdb

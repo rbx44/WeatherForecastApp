@@ -1,0 +1,9 @@
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\bin\Debug\netstandard2.0\WeatherForecast.Data.deps.json
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\bin\Debug\netstandard2.0\WeatherForecast.Data.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.csproj.CoreCompileInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.AssemblyInfoInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.AssemblyInfo.cs
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\bin\Debug\netstandard2.0\WeatherForecast.Data.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.csprojAssemblyReference.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Data\obj\Debug\netstandard2.0\WeatherForecast.Data.pdb

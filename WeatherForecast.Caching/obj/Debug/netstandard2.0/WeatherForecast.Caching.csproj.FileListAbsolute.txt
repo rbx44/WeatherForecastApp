@@ -1,0 +1,16 @@
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\Debug\netstandard2.0\WeatherForecast.Caching.deps.json
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\Debug\netstandard2.0\WeatherForecast.Caching.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.csproj.CoreCompileInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.AssemblyInfoInputs.cache
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.AssemblyInfo.cs
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\Debug\netstandard2.0\WeatherForecast.Caching.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.csproj.CopyComplete
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\obj\Debug\netstandard2.0\WeatherForecast.Caching.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\output\WeatherForecast.Caching.deps.json
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\output\WeatherForecast.Caching.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\output\WeatherForecast.Caching.pdb
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\output\Newtonsoft.Json.dll
+D:\_APPLICATION\WeatherForecastApp\WeatherForecast.Caching\bin\output\Newtonsoft.Json.xml
