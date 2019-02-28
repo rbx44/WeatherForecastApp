@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -17,6 +15,10 @@ namespace WeatherForecast.Api.Web
         public static async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Function, "get", "options", Route = "weather/{userId}")] HttpRequest req, string userId, ILogger log)
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
+
+            if(userId.Length > 30)
+                return new BadRequestObjectResult($"userId: [{userId}] should be less than or equals to 30 characters in length");
+
             var remoteIpAddress = req.HttpContext.Connection.RemoteIpAddress?.ToString();
 
             if (string.IsNullOrEmpty(remoteIpAddress))
