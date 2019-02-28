@@ -9,7 +9,7 @@ Weather Forecast Api allows user to get weather high and lows of the current day
 * Hit the endpoint see below (site url + api endpoint) using Azure Function key with `x-functions-key` as header key. **Ask for header key**.
 * UserId can be any string that will be passed on the url.
 * E.g of a request -  `https://weatherforecastapiweb.azurewebsites.net/api/weather/testuser` with Header `x-functions-key` and Function key as value.
-* **Ask for SQL access** to see the records for running analytics query.
+* **Ask for SQL access** to see or run the records for running analytics query.
 * Create SQL schema script is included in the source `Create Scripts v1.sql` and database diagram `Database Diagram.JPG`  
 
 
@@ -23,7 +23,7 @@ Weather Forecast Api allows user to get weather high and lows of the current day
 * Response is camelCased.
 * Response is cached for 2 hours for future request(s) made from the same location.
 * Writes history of successful invocations for analytics in SQL Server.
-* Returns high and lows of ranges from utc today -1 to utc today +3. Total 5 records. Can be filter in the client with something like MomentJS to convert to local datetime.
+* Returns high and lows of ranges from utc today -1 to utc today +3. Total 5 records. Can be filtered in the client with something like MomentJS library to convert to local datetime.
 
 
 ## Api Endpoint
