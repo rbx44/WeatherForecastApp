@@ -22,7 +22,7 @@ CreatedByName varchar(100) not null,
 CreatedOn datetime not null,
 LastUpdatedByName varchar(100) not null,
 LastUpdatedOn datetime not null,
-Constraint PK_User PRIMARY KEY (LocationId));
+Constraint PK_Location PRIMARY KEY (LocationId));
 GO
 
 
