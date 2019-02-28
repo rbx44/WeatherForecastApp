@@ -27,10 +27,11 @@ Weather Forecast Api allows user to get weather high and lows of the current day
 
 
 ## Api Endpoint
-| Endpoint  | Status | Response
-| ------------- | ------------- | ------------- |
-| api/weather/{userId}  | Success 200 | $Ref: `Response Payload`: WeatherForecast |
-| api/weather/{userId}  | Failure 400  | Error Message |
+| Endpoint  | Status | Response | Type | Verb
+| ------------- | ------------- | ------------- |------------- | ------------- |
+| api/weather/{userId}  | | | REST | GET |
+| | Success 200 | $Ref: `Response Payload`: WeatherForecast | | |
+| | Failure 400  | Error Message | | |
 
 ## Query String Params
 
